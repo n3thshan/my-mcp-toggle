@@ -1,6 +1,6 @@
 {
     "uuid": "my-mcp-toggle@buhahaha",
-    "name": "MCP, OpenCode & ngrok Service Toggles",
+    "name": "My MCP Toggle",
     "description": "A status area indicator to monitor and toggle background development services like MCP Jungle, OpenCode, and ngrok directly from the GNOME top panel.",
     "shell-version": [
         "50"
